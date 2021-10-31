@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:title="Telkom"
+        android:icon="@drawable/ic_apartment"
+        />
+
+    <item
+        android:id="@+id/menu_notification"
+        android:title="SMK Telkom Purwokerto"
+        android:icon="@drawable/ic_school"
+        />
+
+    <item
+        android:id="@+id/menu_settings"
+        android:title="Profil"
+        android:icon="@drawable/ic_actors"
+        />
+
+</menu>
